@@ -1,0 +1,21 @@
+.{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.col-10{
+}
+.bg-dark{
+    background-image: url('carmodel.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.mt-50{
+    margin-top:50px;
+}
+.selectpicker .form-control{
+    background-color:black;
+    color:white;
+}
